@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv("cities_data.csv")
 
-st.sidebar.markdown(" <h1> EPCOM </h1>", unsafe_allow_html=True)
+st.sidebar.markdown(" <h1> EPCOR </h1>", unsafe_allow_html=True)
 
 
 inside_data = False
